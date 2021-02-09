@@ -1,6 +1,8 @@
 # **MIKROS PROTOTYPE - ANDROID**
 This project serves as a demonstration of Mikros Service features, as well as a proof of concept and test for Mikros APIs.
 # Table of Contents
+ [Overview](#overview)
+ [Features](#features)
 
 # Overview
 MIKROS is the visualization layer that uses machine learning and artificial intelligence to turn massive data streams produced by industrial operations and M2M (mobile-to-mobile) technology into insights. Mikros aims at generating reports, cleaning, organizing and managing data. Mikros explains what machine learning models are doing, conveys statistical inference and communicates results to clients.
