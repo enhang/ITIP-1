@@ -4,11 +4,24 @@
 
 # Table of Contents
  * [Introduction](#introduction)
+ * [Getting Started](#gettingstarted)
  * [Features](#features)
 
 # Introduction
 MIKROS is a service that aims to provide a wide functional set where users are able to view and track real-time statistics on any product. This service technology also has the potential to monitor traffic sources, track where users originate, and even contains the ability to predict the likelihood that any particular user would have an interest in your products based on their gaming history. MIKROS is the visualization layer that utilizes machine learning and artificial intelligence to transform massive data streams produced by industrial operations and M2M (mobile-to-mobile) technology into analytical insights. Mikros clearly explains what machine learning models are doing, conveys statistical inference and communicates the outcome to clients. The focus of Mikros is generating reports along with cleaning, organizing and managing data. This project serves as a demonstration of Mikros Service features, as well as a proof of concept and test for Mikros APIs.
 
+# Getting Started
+Referring to [MIKROS SDK README](https://github.com/TATUMGAMES/TG-MIKROS-SDK/blob/master/README.md#getting-started):
+1. In order to use Mikros, clients (game developers/publishers) must go to https://developer.tatumgames.com/
+2. Select a subscription plan. The options are FREE, STARTUP, ENTERPRISE
+3. Register an account, and verify this account via email
+4. Once inside the Mikros dashboard, the client can "create app". The process of creating an app is filling out a form that includes details such as company name, game title, description, package name (bundle id), product assets, videos, category {RPG, Puzzle, Platformer, CCG, Strategy, Other}
+
+Once steps 1-4 is completed, the following will be generated:
+1. App Game ID (auto-generated)
+2. Production API Key (auto-generated)
+3. QA API Key (Manual)
+4. Development API Key (Manual)
 
 # Features
 There are a variety of features provided by the MIKROS service, including direct advertising campaigns, quicker mobile game development due to the out-of-box chat, achievements, leaderboard, registration/authentication, in-app-purchases and many more features.
