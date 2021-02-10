@@ -1,7 +1,7 @@
 # **MIKROS PROTOTYPE - ANDROID** 
 
 <img src = "https://github.com/enhang/ITIP-1/blob/main/mikros_logo.png">
-*This project serves as a demonstration of Mikros Service features, as well as a proof of concept and test for Mikros APIs.*
+This project serves as a demonstration of Mikros Service features, as well as a proof of concept and test for Mikros APIs.
 
 ## Table of Contents
  * [Introduction](#introduction)
