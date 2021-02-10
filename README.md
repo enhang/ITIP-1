@@ -5,7 +5,7 @@ This project serves as a demonstration of Mikros Service features, as well as a 
 
 ## Table of Contents
  * [Introduction](#introduction)
- * [Getting Started](#gettingstarted)
+ * [Getting Started](#getting-started)
  * [Features](#features)
 
 ## Introduction
@@ -25,11 +25,11 @@ Once steps 1-4 is completed, the following will be generated:
 4. Development API Key (Manual)
 
 ## Features
-There are a variety of features provided by the MIKROS service, including direct advertising campaigns, quicker mobile game development due to the out-of-box chat, achievements, leaderboard, registration/authentication, in-app-purchases and many more features.
+There are a variety of features provided by the MIKROS service, such as direct advertising campaigns, high-speed mobile game development due to the out-of-box chat, achievements, leaderboards, registration/authentication, in-app-purchases and many more features.
 
 * **B2C and B2B** -
 The app has two perspectives, one representing the B2B client and the other representing the B2C client. While signed into a B2B client account you are able to create apps and then view analytics regarding the use of the apps you created. While signed into a B2C account you are able to see a list of apps created by all B2B client accounts and initialize a play session. 
 
 * **TCoins** -
-While you have an active play session, you can then purchase and spend TCoin. Your TCoin balance is managed and maintained across all apps in the Mikros ecosystem. TCoins are a virtual currency of Tatum Games. You have the ability to track TCoin purchases. This provides a single purchasable currency that can be shared and tracked universally across all mobile platforms. Your TCoin balance is managed and maintained across all apps in the Mikros ecosystem. Users can buy TCoin using any payment method that is supported by Google Wallet. See the [Google Wallet](https://support.google.com/googleplay/answer/2651410?hl=en&visit_id=637078994149444116-2382553265&rd=2) help page for details about which payment methods are supported. If users are receiving a message stating that, "We cannot process your purchase, so your purchase has been canceled," then there could be a problem with their Google Wallet account information. Affected users must verify that their address and credit card information are correct. Users can also refer to Google Support articles on "[Error on purchases without full address](https://support.google.com/googleplay/answer/1724953)" and "[Troubleshooting credit card declines.](https://support.google.com/googleplay/answer/2505684)"
+While a play session is active, TCoins can be purchased and spent. TCoins are a virtual currency of Tatum Games. Users can buy TCoins using any payment method that is supported by Google Wallet. You will obtain a TCoin balance that will be managed and maintained across all apps in the Mikros ecosystem. You also have the ability to track TCoin purchases and spending. This provides a single purchasable currency that can be shared and tracked universally across all mobile platforms. See the [Google Wallet](https://support.google.com/googleplay/answer/2651410?hl=en&visit_id=637078994149444116-2382553265&rd=2) help page for details about which payment methods are supported. If users are receiving a message stating that, "We cannot process your purchase, so your purchase has been canceled," then there could be a problem with their Google Wallet account information. Affected users must verify that their address and credit card information are correct. Users can also refer to Google Support articles on "[Error on purchases without full address](https://support.google.com/googleplay/answer/1724953)" and "[Troubleshooting credit card declines.](https://support.google.com/googleplay/answer/2505684)"
 "
