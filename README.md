@@ -19,3 +19,4 @@ The app has two perspectives, one representing the B2B client and the other repr
 While a play session is active, TCoins can be purchased and spent. TCoins are a virtual currency of Tatum Games. Users can buy TCoins using any payment method that is supported by Google Wallet. You will obtain a TCoin balance that will be managed and maintained across all apps in the Mikros ecosystem. You also have the ability to track TCoin purchases and spending.
 
 ## Changelog
+2021-2-9: Updated README
